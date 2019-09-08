@@ -1,0 +1,53 @@
+# -*- coding: UTF-8 -*-
+import requests
+import json
+from bs4 import BeautifulSoup
+import time
+
+#https://www.cnblogs.com/cdf-opensource-007/p/6348108.html
+#https://cuiqingcai.com/1052.html
+#
+
+CITY_URL = "http://trip.cmbchina.com/Platinum/ShowHotelList.html"
+
+
+def get_hotel_list(city):
+    headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 QQBrowser/3.9.3943.400",
+               "X-Requested-With": "XMLHttpRequest"}
+    data = {"city": city, "page": 1}
+
+    content = requests.post(CITY_URL, data=data, headers=headers).content
+
+    hotel_list_soup = BeautifulSoup(content, "lxml")
+
+    # print(hotel_list_soup.string)
+
+    xx = json.loads(hotel_list_soup.string)
+
+    # print(xx['Data']['HotelList'])
+
+    for i in xx['Data']['HotelList']:
+        print(i)
+
+    for i in xx['Data']['HotelList']:
+        print(i['Name'])
+
+    for i in xx['Data']['HotelList']:
+        print(i['ID'])
+
+
+def get_hotel_detail():
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36 QQBrowser/3.9.3943.400",
+        "X-Requested-With": "XMLHttpRequest"}
+
+    current_milli_time = str(round(time.time() * 1000))
+    hotel_url= "http://trip.cmbchina.com/Platinum/GetCalendar.html?hotelId=10006880&productId=1b7deb4200000164&lastReservationTime=84&date=&_=" + current_milli_time
+    print(hotel_url)
+    content = requests.get(hotel_url, headers=headers).content
+    hotel_detail_soup = BeautifulSoup(content, "lxml")
+    print(hotel_detail_soup)
+
+
+# get_hotel_list('hz')
+get_hotel_detail()
