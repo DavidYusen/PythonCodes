@@ -19,7 +19,12 @@ def get_hotel_list(city):
     content = requests.post(CITY_URL, data=data, headers=headers).content
 
     hotel_list_soup = BeautifulSoup(content, "lxml")
+
+    # print(hotel_list_soup.string)
+
     xx = json.loads(hotel_list_soup.string)
+
+    # print(xx['Data']['HotelList'])
 
     for i in xx['Data']['HotelList']:
         print(i)
