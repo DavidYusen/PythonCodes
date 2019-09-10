@@ -1,8 +1,9 @@
 import logging
 import sqlite3
 
-import CommonFunctions as cf
+
 logger = logging.getLogger("TradeX."+__name__)
+
 
 def create_tables():
     logger.info("Enter create_tables")

@@ -1,5 +1,6 @@
 import logging
 from logging.handlers import RotatingFileHandler
+
 import InsertHKTradeDetails as hk
 import GetDataFromTushare as tu
 
@@ -30,14 +31,14 @@ if __name__ == '__main__':
     # #
     # # # 更新股票基本信息
     # tu.refresh_stock_basics_data()
-    # #
-    # Insert HGT trade data by period
-    # hk.insert_data_by_period(20190820, 20190825)
     #
-    # Insert HGT trade data by date
+    # # Insert HGT trade data by period
+    # hk.insert_data_by_period(20190826, 20190909)
+
+    # # Insert HGT trade data by date
     # hk.insert_data_by_date('20190826')
 
-    # Refresh market data
+    # # Refresh market data
     # tu.refresh_market_data()
 
     # Insert tushare.pro daily data

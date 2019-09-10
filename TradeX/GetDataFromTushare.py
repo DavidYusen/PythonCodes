@@ -4,9 +4,10 @@ import sqlite3
 import logging
 import time
 
-ts.set_token('96f42c2df864db5b2b5dabe8ef76a623e05f8a5c39fd6b8c2c72e004')
 
+ts.set_token('96f42c2df864db5b2b5dabe8ef76a623e05f8a5c39fd6b8c2c72e004')
 logger = logging.getLogger("TradeX."+__name__)
+
 
 def refresh_holiday_data():
     logger.debug("Enter refresh_holiday_data")
