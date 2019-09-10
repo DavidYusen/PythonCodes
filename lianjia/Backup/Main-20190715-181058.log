@@ -1,0 +1,615 @@
+15-10-2019 18:10:58 root:INFO:start main process
+15-10-2019 18:10:58 root:INFO:start handling district: beicai
+15-11-2019 18:11:00 root:INFO:district beicai , communit count:333
+15-11-2019 18:11:01 root:INFO:handling directory page 1
+15-11-2019 18:11:01 root:INFO:60
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014388/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018309/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014460/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002501/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000491/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016533/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014231/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000017623/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009860/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000017399/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013346/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014536/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003007/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014204/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000007132/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014752/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012323/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012349/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014989/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011161/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004216/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011906988126279/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014749/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009386/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000019823/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012035/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006650/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003831/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014306/
+15-11-2019 18:11:01 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010065/
+15-11-2019 18:11:03 root:INFO:handling directory page 2
+15-11-2019 18:11:03 root:INFO:60
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011254/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001171/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012716/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003191/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013251/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014437/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005487/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005117/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003351/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003585/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016751/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014331/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006303/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012296/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011218/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013608/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000007888/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010193/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012138/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003443/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011769/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002202/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014924/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006298/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010050/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013604/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002484/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010832/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013875/
+15-11-2019 18:11:03 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014479/
+15-11-2019 18:11:04 root:INFO:handling directory page 3
+15-11-2019 18:11:04 root:INFO:60
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012176/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000007529/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012172/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009022/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006043/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006257/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011954/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001465/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004177/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011102207555/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003441/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013958/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002975/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012074/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003374/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004913/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002519/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013834/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002877/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005197/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009609/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002885/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012240/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004504/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003342/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000019450/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011780/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5014481998491993/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000007682/
+15-11-2019 18:11:04 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002330/
+15-11-2019 18:11:06 root:INFO:handling directory page 4
+15-11-2019 18:11:06 root:INFO:60
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005221/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013679/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003483/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015605/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006735/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013379/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005030/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014704/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005820/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018399/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003065/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003486/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009240/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002231/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014014/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003789/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005290/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009610/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006510/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010602/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000007696/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010806/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005874/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000283/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010049/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001909/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013986/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014826/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004389/
+15-11-2019 18:11:06 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015163/
+15-11-2019 18:11:08 root:INFO:handling directory page 5
+15-11-2019 18:11:08 root:INFO:100
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009589/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000821/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003252/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000008354/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001970/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012974/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010248/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000008733/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003094/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001774/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020021956392670/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020036058425633/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000007734/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013975/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492702947/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000405/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249278/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249274/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249404/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453777/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453781/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492703347/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492703411/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492703403/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005328/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970523373586/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970523373590/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492702950/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492702949/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492703336/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015622/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000814/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014621/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000019453/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010262/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009027/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011063538783/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018782/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003963/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009656/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011102210359/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/509821540319292/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013652/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016420/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013649/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003578/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015608/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013059/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010653/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000017185/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010580/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009199/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009417/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000019898/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012728/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002357/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016222/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006054/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004536/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010583/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012770/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/509821540057269/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018249/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000017475/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003634/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000708/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015611/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013538/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004819/
+15-11-2019 18:11:08 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011263/
+15-11-2019 18:11:09 root:INFO:handling directory page 6
+15-11-2019 18:11:09 root:INFO:60
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970523374500/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020025409746004/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249286/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249401/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020028379707342/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970599658145/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5013127454044951/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020027201612568/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5014505812700671/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5016323452897318/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737991/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737948/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453790/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020026417958862/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020025851198469/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737997/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737994/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660738012/
+15-11-2019 18:11:09 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970599658142/
+15-11-2019 18:11:10 root:INFO:handling directory page 7
+15-11-2019 18:11:10 root:INFO:58
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737966/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020027464898101/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5014510301392889/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5015683039539884/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492703342/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970523373578/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970475925605/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5016389495337701/
+15-11-2019 18:11:10 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737955/
+15-11-2019 18:11:11 root:INFO:handling directory page 8
+15-11-2019 18:11:11 root:INFO:100
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660738002/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492702969/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249272/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249402/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970569249410/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453769/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453771/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453752/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970599658133/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970599658105/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020024834905629/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020030567850687/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737980/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737947/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970660737965/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970675941477/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492703409/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970538840815/
+15-11-2019 18:11:11 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970443682114/
+15-11-2019 18:11:12 root:INFO:handling directory page 9
+15-11-2019 18:11:12 root:INFO:98
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020038838710813/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970721292451/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013606/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002819/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003273/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003629/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970706350324/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011102207606/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000008878/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011063202258/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970599658137/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011960/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453757/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011336/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000235/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022916210608/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022917259401/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015229/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016109/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016949/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018201/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004226/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016703/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000409/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018217/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013747/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015772/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015018/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009583/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015828/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003460/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015708/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015162/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000770/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010187/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000015312/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020026493449789/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000478/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001607/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016056/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003524/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004090/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000017051/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010261/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011560/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000446/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010745/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012110/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013455/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000007514/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001730/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000010666/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014433/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012187/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011527/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004042/
+15-11-2019 18:11:12 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012810/
+15-11-2019 18:11:14 root:INFO:handling directory page 10
+15-11-2019 18:11:14 root:INFO:60
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022917255303/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022917259558/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022917261458/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022917257211/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022917262554/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012444642062807/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022916214643/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970584453784/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020021025089980/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003482/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020023799487211/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970492703341/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011102207502/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970751701933/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018683/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000001593/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005338/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020038801090204/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020032487703567/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5013058797218996/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020023623231195/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002275/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000008113/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020028473041205/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013920/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020026322538410/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020023799487477/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012970599658138/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020023799487006/
+15-11-2019 18:11:14 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011102207573/
+15-11-2019 18:11:15 root:INFO:handling directory page 11
+15-11-2019 18:11:15 root:INFO:100
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004976/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5020022538562581/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000000864/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018511/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006081/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000009665/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018959/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000016061/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002671/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011795/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003433/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000014739/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5012451203002965/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000004958/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5016389501104000/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000006062/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000019856/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000005908/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000019110/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012294/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000008676/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000002736/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012708/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000011364/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000019373/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000012286/
+15-11-2019 18:11:15 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000003484/
+15-11-2019 18:11:16 root:INFO:handling directory page 12
+15-11-2019 18:11:16 root:INFO:6
+15-11-2019 18:11:16 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000013366/
+15-11-2019 18:11:16 root:INFO:Find new community: https://sh.lianjia.com/xiaoqu/5011000018707/
+15-11-2019 18:11:16 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020022917255303/
+15-11-2019 18:11:16 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:16 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970492703342/
+15-11-2019 18:11:17 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:17 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000002202/
+15-11-2019 18:11:18 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:18 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000001730/
+15-11-2019 18:11:19 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:19 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000004958/
+15-11-2019 18:11:20 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:20 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000014924/
+15-11-2019 18:11:21 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:21 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012187/
+15-11-2019 18:11:22 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:22 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970538840815/
+15-11-2019 18:11:22 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:22 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000015622/
+15-11-2019 18:11:23 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:23 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970584453771/
+15-11-2019 18:11:24 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:24 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000017623/
+15-11-2019 18:11:25 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:25 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000008676/
+15-11-2019 18:11:26 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:26 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000013606/
+15-11-2019 18:11:27 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:27 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970569249278/
+15-11-2019 18:11:27 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:27 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000002484/
+15-11-2019 18:11:29 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:29 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970584453781/
+15-11-2019 18:11:30 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:30 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5014510301392889/
+15-11-2019 18:11:30 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:30 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970569249404/
+15-11-2019 18:11:31 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:31 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970660737980/
+15-11-2019 18:11:32 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:32 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012138/
+15-11-2019 18:11:33 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:33 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000010806/
+15-11-2019 18:11:34 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:34 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000010583/
+15-11-2019 18:11:35 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:35 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000003585/
+15-11-2019 18:11:36 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:36 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970492703341/
+15-11-2019 18:11:36 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:36 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000013958/
+15-11-2019 18:11:37 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:37 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970599658138/
+15-11-2019 18:11:38 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:38 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000009589/
+15-11-2019 18:11:39 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:39 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020022538562581/
+15-11-2019 18:11:40 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:40 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000019450/
+15-11-2019 18:11:41 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:41 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000011560/
+15-11-2019 18:11:42 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:42 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000000814/
+15-11-2019 18:11:43 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:43 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020023799487477/
+15-11-2019 18:11:44 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:44 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000005487/
+15-11-2019 18:11:44 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:44 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5013058797218996/
+15-11-2019 18:11:45 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:45 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000016703/
+15-11-2019 18:11:46 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:46 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012728/
+15-11-2019 18:11:47 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:47 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000000235/
+15-11-2019 18:11:48 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:48 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012296/
+15-11-2019 18:11:49 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:49 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020024834905629/
+15-11-2019 18:11:50 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:50 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011102207573/
+15-11-2019 18:11:51 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:51 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000018959/
+15-11-2019 18:11:52 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:52 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970492702969/
+15-11-2019 18:11:52 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:52 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000006735/
+15-11-2019 18:11:53 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:53 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000003483/
+15-11-2019 18:11:54 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:54 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000005338/
+15-11-2019 18:11:55 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:55 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000011364/
+15-11-2019 18:11:56 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:56 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000005197/
+15-11-2019 18:11:57 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:57 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000006081/
+15-11-2019 18:11:58 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:58 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000002736/
+15-11-2019 18:11:59 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-11-2019 18:11:59 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012810/
+15-12-2019 18:12:00 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:00 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000000770/
+15-12-2019 18:12:01 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:01 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000015163/
+15-12-2019 18:12:02 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:02 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000002501/
+15-12-2019 18:12:03 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:03 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020021025089980/
+15-12-2019 18:12:03 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:03 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000000478/
+15-12-2019 18:12:04 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:04 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000002819/
+15-12-2019 18:12:05 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:05 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000009609/
+15-12-2019 18:12:06 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:06 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5013127454044951/
+15-12-2019 18:12:07 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:07 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000011954/
+15-12-2019 18:12:08 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:08 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970660737966/
+15-12-2019 18:12:09 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:09 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000003441/
+15-12-2019 18:12:09 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:09 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012770/
+15-12-2019 18:12:10 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:10 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012176/
+15-12-2019 18:12:11 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:11 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5015683039539884/
+15-12-2019 18:12:12 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:12 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970492702949/
+15-12-2019 18:12:13 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:13 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000018399/
+15-12-2019 18:12:14 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:14 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000013986/
+15-12-2019 18:12:15 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:15 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000007132/
+15-12-2019 18:12:16 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:16 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970706350324/
+15-12-2019 18:12:16 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:16 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012716/
+15-12-2019 18:12:17 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:17 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000006510/
+15-12-2019 18:12:18 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:18 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000011254/
+15-12-2019 18:12:19 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:19 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012349/
+15-12-2019 18:12:20 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:20 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970675941477/
+15-12-2019 18:12:21 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:21 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000000446/
+15-12-2019 18:12:22 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:22 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000014204/
+15-12-2019 18:12:23 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:23 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020023799487211/
+15-12-2019 18:12:24 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:24 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000003629/
+15-12-2019 18:12:25 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:25 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000000864/
+15-12-2019 18:12:25 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:25 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970492703347/
+15-12-2019 18:12:26 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:26 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000013604/
+15-12-2019 18:12:27 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:27 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011102210359/
+15-12-2019 18:12:28 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:28 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000013747/
+15-12-2019 18:12:29 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:29 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000002231/
+15-12-2019 18:12:30 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:30 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000010065/
+15-12-2019 18:12:31 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:31 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012286/
+15-12-2019 18:12:32 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:32 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000003482/
+15-12-2019 18:12:33 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:33 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000006650/
+15-12-2019 18:12:34 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:34 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000006054/
+15-12-2019 18:12:35 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:35 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020032487703567/
+15-12-2019 18:12:36 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:36 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000002519/
+15-12-2019 18:12:37 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:37 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000010832/
+15-12-2019 18:12:38 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:38 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000011780/
+15-12-2019 18:12:39 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:39 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000019110/
+15-12-2019 18:12:40 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:40 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000011795/
+15-12-2019 18:12:41 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:41 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000014826/
+15-12-2019 18:12:42 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:42 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000013251/
+15-12-2019 18:12:43 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:43 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000013652/
+15-12-2019 18:12:44 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:44 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000005117/
+15-12-2019 18:12:45 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:45 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000004504/
+15-12-2019 18:12:45 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:45 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5014505812700671/
+15-12-2019 18:12:46 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:46 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000004536/
+15-12-2019 18:12:47 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:47 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000000491/
+15-12-2019 18:12:48 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:48 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000007529/
+15-12-2019 18:12:49 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:49 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000010580/
+15-12-2019 18:12:50 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:50 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011102207555/
+15-12-2019 18:12:51 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:51 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000018249/
+15-12-2019 18:12:52 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:52 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5012970660737994/
+15-12-2019 18:12:52 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:52 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000014704/
+15-12-2019 18:12:53 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:53 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020026322538410/
+15-12-2019 18:12:54 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:54 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020026493449789/
+15-12-2019 18:12:55 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:55 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000005290/
+15-12-2019 18:12:56 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:56 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000014989/
+15-12-2019 18:12:57 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:57 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020025409746004/
+15-12-2019 18:12:58 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:58 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000016420/
+15-12-2019 18:12:59 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-12-2019 18:12:59 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000012110/
+15-13-2019 18:13:00 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-13-2019 18:13:00 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5011000009240/
+15-13-2019 18:13:01 root:INFO:Finish handing https://sh.lianjia.com/xiaoqu/
+15-13-2019 18:13:01 root:INFO:start handling: https://sh.lianjia.com/xiaoqu/5020038801090204/

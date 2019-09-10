@@ -15,8 +15,9 @@ _**20190213**_
 
 
 _**Someday I will implement**_
-* Add a comments section to each entry. Comments should be stored in a separate model that relates back to an Entry. You can display a form on the bottom of each Entry detail page and have it POST to a special view that creates a new comment.
 * Allow entries to have tags and create URLs for browsing by tag (kinda like this page).
+* Add tag based navigation panel on the left side.
+* Add a comments section to each entry. Comments should be stored in a separate model that relates back to an Entry. You can display a form on the bottom of each Entry detail page and have it POST to a special view that creates a new comment.
 * Add a contact form that sends email messages. Bonus points for adding spam detection to this form.
 * If you anticipate lots of traffic, you might investigate ways to cache static parts of the site.
 * Use SQLCipher to keep your database encrypted!

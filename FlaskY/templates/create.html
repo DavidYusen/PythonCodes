@@ -20,14 +20,12 @@
       </div>
     </div>
 
-    <div>
+    <div class="form-group">
       <label for="Photo" class="col-sm-2 control-label">Photo</label>
-            <form method="post" action="http://localhost:5000/up_photo" enctype="multipart/form-data">
-            <input type="file" size="30" name="photo"/>
-            <br>
-            <input type="text" class="txt_input" name="name" style="margin-top:15px;"/>
-            <input type="submit" value="提交信息" class="button-new" style="margin-top:15px;"/>
-            </form>
+      <form method="post" action='/up_photo' enctype="multipart/form-data">
+        <input type="file" size="30" name="Photo"/>
+        <button class="btn btn-primary" type="submit">{% block upload_button %}Upload{% endblock %}</button>
+      </form>
     </div>
 
     <div class="form-group">
@@ -47,7 +45,7 @@
       </div>
     </div>
 
-    <div class="form-group">
+    <div class="form-group" action='/create',method='post'>
       <div class="col-sm-offset-2 col-sm-10">
         <button class="btn btn-primary" type="submit">{% block save_button %}Create{% endblock %}</button>
         <a class="btn btn-default" href="{{ url_for('index') }}">Cancel</a>

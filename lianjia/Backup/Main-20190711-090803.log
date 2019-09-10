@@ -1,0 +1,1256 @@
+11-08-2019 09:08:03 root:INFO:start main process
+11-08-2019 09:08:03 root:INFO:start handling district: biyun
+11-08-2019 09:08:04 root:INFO:district biyun , house count:232
+11-08-2019 09:08:05 root:INFO:handling directory page 1
+11-08-2019 09:08:06 root:INFO:handling directory page 2
+11-08-2019 09:08:07 root:INFO:handling directory page 3
+11-08-2019 09:08:08 root:INFO:handling directory page 4
+11-08-2019 09:08:08 root:INFO:handling directory page 5
+11-08-2019 09:08:09 root:INFO:handling directory page 6
+11-08-2019 09:08:10 root:INFO:handling directory page 7
+11-08-2019 09:08:11 root:INFO:handling directory page 8
+11-08-2019 09:08:11 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101415356.html
+11-08-2019 09:08:12 root:INFO:小区名称
+11-08-2019 09:08:12 root:INFO:所在区域
+11-08-2019 09:08:12 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002095371.html
+11-08-2019 09:08:13 root:INFO:小区名称
+11-08-2019 09:08:13 root:INFO:所在区域
+11-08-2019 09:08:13 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101346716.html
+11-08-2019 09:08:14 root:INFO:小区名称
+11-08-2019 09:08:14 root:INFO:所在区域
+11-08-2019 09:08:14 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000159753.html
+11-08-2019 09:08:15 root:INFO:小区名称
+11-08-2019 09:08:15 root:INFO:所在区域
+11-08-2019 09:08:15 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100433294.html
+11-08-2019 09:08:16 root:INFO:小区名称
+11-08-2019 09:08:16 root:INFO:所在区域
+11-08-2019 09:08:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101255337.html
+11-08-2019 09:08:17 root:INFO:小区名称
+11-08-2019 09:08:17 root:INFO:所在区域
+11-08-2019 09:08:17 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101337995.html
+11-08-2019 09:08:18 root:INFO:小区名称
+11-08-2019 09:08:18 root:INFO:所在区域
+11-08-2019 09:08:18 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100397097.html
+11-08-2019 09:08:19 root:INFO:小区名称
+11-08-2019 09:08:19 root:INFO:所在区域
+11-08-2019 09:08:19 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000212973.html
+11-08-2019 09:08:20 root:INFO:小区名称
+11-08-2019 09:08:20 root:INFO:所在区域
+11-08-2019 09:08:20 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000199441.html
+11-08-2019 09:08:21 root:INFO:小区名称
+11-08-2019 09:08:21 root:INFO:所在区域
+11-08-2019 09:08:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101479522.html
+11-08-2019 09:08:22 root:INFO:小区名称
+11-08-2019 09:08:22 root:INFO:所在区域
+11-08-2019 09:08:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100633648.html
+11-08-2019 09:08:23 root:INFO:小区名称
+11-08-2019 09:08:23 root:INFO:所在区域
+11-08-2019 09:08:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100706941.html
+11-08-2019 09:08:24 root:INFO:小区名称
+11-08-2019 09:08:24 root:INFO:所在区域
+11-08-2019 09:08:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000040539.html
+11-08-2019 09:08:25 root:INFO:小区名称
+11-08-2019 09:08:25 root:INFO:所在区域
+11-08-2019 09:08:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100693185.html
+11-08-2019 09:08:27 root:INFO:小区名称
+11-08-2019 09:08:27 root:INFO:所在区域
+11-08-2019 09:08:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101286263.html
+11-08-2019 09:08:28 root:INFO:小区名称
+11-08-2019 09:08:28 root:INFO:所在区域
+11-08-2019 09:08:28 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100830407.html
+11-08-2019 09:08:29 root:INFO:小区名称
+11-08-2019 09:08:29 root:INFO:所在区域
+11-08-2019 09:08:29 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100371917.html
+11-08-2019 09:08:30 root:INFO:小区名称
+11-08-2019 09:08:30 root:INFO:所在区域
+11-08-2019 09:08:30 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101335962.html
+11-08-2019 09:08:31 root:INFO:小区名称
+11-08-2019 09:08:31 root:INFO:所在区域
+11-08-2019 09:08:31 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100481809.html
+11-08-2019 09:08:32 root:INFO:小区名称
+11-08-2019 09:08:32 root:INFO:所在区域
+11-08-2019 09:08:32 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000408953.html
+11-08-2019 09:08:33 root:INFO:小区名称
+11-08-2019 09:08:33 root:INFO:所在区域
+11-08-2019 09:08:33 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000154731.html
+11-08-2019 09:08:34 root:INFO:小区名称
+11-08-2019 09:08:34 root:INFO:所在区域
+11-08-2019 09:08:34 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100421946.html
+11-08-2019 09:08:35 root:INFO:小区名称
+11-08-2019 09:08:35 root:INFO:所在区域
+11-08-2019 09:08:35 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101345713.html
+11-08-2019 09:08:36 root:INFO:小区名称
+11-08-2019 09:08:36 root:INFO:所在区域
+11-08-2019 09:08:36 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101450589.html
+11-08-2019 09:08:37 root:INFO:小区名称
+11-08-2019 09:08:37 root:INFO:所在区域
+11-08-2019 09:08:37 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100743999.html
+11-08-2019 09:08:38 root:INFO:小区名称
+11-08-2019 09:08:38 root:INFO:所在区域
+11-08-2019 09:08:38 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100535344.html
+11-08-2019 09:08:39 root:INFO:小区名称
+11-08-2019 09:08:39 root:INFO:所在区域
+11-08-2019 09:08:39 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100382515.html
+11-08-2019 09:08:40 root:INFO:小区名称
+11-08-2019 09:08:40 root:INFO:所在区域
+11-08-2019 09:08:40 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101416124.html
+11-08-2019 09:08:41 root:INFO:小区名称
+11-08-2019 09:08:41 root:INFO:所在区域
+11-08-2019 09:08:41 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101463137.html
+11-08-2019 09:08:42 root:INFO:小区名称
+11-08-2019 09:08:42 root:INFO:所在区域
+11-08-2019 09:08:42 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100215811.html
+11-08-2019 09:08:43 root:INFO:小区名称
+11-08-2019 09:08:43 root:INFO:所在区域
+11-08-2019 09:08:43 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101154570.html
+11-08-2019 09:08:44 root:INFO:小区名称
+11-08-2019 09:08:44 root:INFO:所在区域
+11-08-2019 09:08:45 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001455195.html
+11-08-2019 09:08:46 root:INFO:小区名称
+11-08-2019 09:08:46 root:INFO:所在区域
+11-08-2019 09:08:46 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101489552.html
+11-08-2019 09:08:47 root:INFO:小区名称
+11-08-2019 09:08:47 root:INFO:所在区域
+11-08-2019 09:08:47 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101158077.html
+11-08-2019 09:08:48 root:INFO:小区名称
+11-08-2019 09:08:48 root:INFO:所在区域
+11-08-2019 09:08:48 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100617983.html
+11-08-2019 09:08:49 root:INFO:小区名称
+11-08-2019 09:08:49 root:INFO:所在区域
+11-08-2019 09:08:49 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001793297.html
+11-08-2019 09:08:50 root:INFO:小区名称
+11-08-2019 09:08:50 root:INFO:所在区域
+11-08-2019 09:08:50 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100955288.html
+11-08-2019 09:08:51 root:INFO:小区名称
+11-08-2019 09:08:51 root:INFO:所在区域
+11-08-2019 09:08:51 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101228207.html
+11-08-2019 09:08:52 root:INFO:小区名称
+11-08-2019 09:08:52 root:INFO:所在区域
+11-08-2019 09:08:52 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100594587.html
+11-08-2019 09:08:53 root:INFO:小区名称
+11-08-2019 09:08:53 root:INFO:所在区域
+11-08-2019 09:08:53 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101045969.html
+11-08-2019 09:08:54 root:INFO:小区名称
+11-08-2019 09:08:54 root:INFO:所在区域
+11-08-2019 09:08:54 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101434212.html
+11-08-2019 09:08:55 root:INFO:小区名称
+11-08-2019 09:08:55 root:INFO:所在区域
+11-08-2019 09:08:55 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002316309.html
+11-08-2019 09:08:56 root:INFO:小区名称
+11-08-2019 09:08:56 root:INFO:所在区域
+11-08-2019 09:08:56 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101449338.html
+11-08-2019 09:08:57 root:INFO:小区名称
+11-08-2019 09:08:57 root:INFO:所在区域
+11-08-2019 09:08:57 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100716809.html
+11-08-2019 09:08:58 root:INFO:小区名称
+11-08-2019 09:08:58 root:INFO:所在区域
+11-08-2019 09:08:58 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100301704.html
+11-08-2019 09:08:59 root:INFO:小区名称
+11-08-2019 09:08:59 root:INFO:所在区域
+11-08-2019 09:08:59 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101480097.html
+11-09-2019 09:09:00 root:INFO:小区名称
+11-09-2019 09:09:00 root:INFO:所在区域
+11-09-2019 09:09:00 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100734008.html
+11-09-2019 09:09:01 root:INFO:小区名称
+11-09-2019 09:09:01 root:INFO:所在区域
+11-09-2019 09:09:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101119993.html
+11-09-2019 09:09:02 root:INFO:小区名称
+11-09-2019 09:09:02 root:INFO:所在区域
+11-09-2019 09:09:02 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101116333.html
+11-09-2019 09:09:03 root:INFO:小区名称
+11-09-2019 09:09:03 root:INFO:所在区域
+11-09-2019 09:09:03 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101454829.html
+11-09-2019 09:09:04 root:INFO:小区名称
+11-09-2019 09:09:04 root:INFO:所在区域
+11-09-2019 09:09:04 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101264769.html
+11-09-2019 09:09:05 root:INFO:小区名称
+11-09-2019 09:09:05 root:INFO:所在区域
+11-09-2019 09:09:06 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100334900.html
+11-09-2019 09:09:06 root:INFO:小区名称
+11-09-2019 09:09:06 root:INFO:所在区域
+11-09-2019 09:09:07 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100568352.html
+11-09-2019 09:09:07 root:INFO:小区名称
+11-09-2019 09:09:07 root:INFO:所在区域
+11-09-2019 09:09:08 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100399060.html
+11-09-2019 09:09:09 root:INFO:小区名称
+11-09-2019 09:09:09 root:INFO:所在区域
+11-09-2019 09:09:09 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101513518.html
+11-09-2019 09:09:09 root:INFO:小区名称
+11-09-2019 09:09:09 root:INFO:所在区域
+11-09-2019 09:09:09 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101045465.html
+11-09-2019 09:09:10 root:INFO:小区名称
+11-09-2019 09:09:10 root:INFO:所在区域
+11-09-2019 09:09:11 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100355661.html
+11-09-2019 09:09:11 root:INFO:小区名称
+11-09-2019 09:09:11 root:INFO:所在区域
+11-09-2019 09:09:12 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100687691.html
+11-09-2019 09:09:12 root:INFO:小区名称
+11-09-2019 09:09:12 root:INFO:所在区域
+11-09-2019 09:09:13 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100266378.html
+11-09-2019 09:09:14 root:INFO:小区名称
+11-09-2019 09:09:14 root:INFO:所在区域
+11-09-2019 09:09:14 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101300560.html
+11-09-2019 09:09:15 root:INFO:小区名称
+11-09-2019 09:09:15 root:INFO:所在区域
+11-09-2019 09:09:15 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100650570.html
+11-09-2019 09:09:16 root:INFO:小区名称
+11-09-2019 09:09:16 root:INFO:所在区域
+11-09-2019 09:09:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101185173.html
+11-09-2019 09:09:17 root:INFO:小区名称
+11-09-2019 09:09:17 root:INFO:所在区域
+11-09-2019 09:09:17 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100851755.html
+11-09-2019 09:09:18 root:INFO:小区名称
+11-09-2019 09:09:18 root:INFO:所在区域
+11-09-2019 09:09:18 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100300793.html
+11-09-2019 09:09:19 root:INFO:小区名称
+11-09-2019 09:09:19 root:INFO:所在区域
+11-09-2019 09:09:19 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002117655.html
+11-09-2019 09:09:20 root:INFO:小区名称
+11-09-2019 09:09:20 root:INFO:所在区域
+11-09-2019 09:09:20 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100885329.html
+11-09-2019 09:09:21 root:INFO:小区名称
+11-09-2019 09:09:21 root:INFO:所在区域
+11-09-2019 09:09:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000362861.html
+11-09-2019 09:09:22 root:INFO:小区名称
+11-09-2019 09:09:22 root:INFO:所在区域
+11-09-2019 09:09:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100344815.html
+11-09-2019 09:09:23 root:INFO:小区名称
+11-09-2019 09:09:23 root:INFO:所在区域
+11-09-2019 09:09:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100515354.html
+11-09-2019 09:09:24 root:INFO:小区名称
+11-09-2019 09:09:24 root:INFO:所在区域
+11-09-2019 09:09:24 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000203945.html
+11-09-2019 09:09:25 root:INFO:小区名称
+11-09-2019 09:09:25 root:INFO:所在区域
+11-09-2019 09:09:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000204873.html
+11-09-2019 09:09:26 root:INFO:小区名称
+11-09-2019 09:09:26 root:INFO:所在区域
+11-09-2019 09:09:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100031762.html
+11-09-2019 09:09:27 root:INFO:小区名称
+11-09-2019 09:09:27 root:INFO:所在区域
+11-09-2019 09:09:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001273267.html
+11-09-2019 09:09:28 root:INFO:小区名称
+11-09-2019 09:09:28 root:INFO:所在区域
+11-09-2019 09:09:28 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100582008.html
+11-09-2019 09:09:29 root:INFO:小区名称
+11-09-2019 09:09:29 root:INFO:所在区域
+11-09-2019 09:09:29 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100415526.html
+11-09-2019 09:09:30 root:INFO:小区名称
+11-09-2019 09:09:30 root:INFO:所在区域
+11-09-2019 09:09:30 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100555210.html
+11-09-2019 09:09:31 root:INFO:小区名称
+11-09-2019 09:09:31 root:INFO:所在区域
+11-09-2019 09:09:31 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100518356.html
+11-09-2019 09:09:32 root:INFO:小区名称
+11-09-2019 09:09:32 root:INFO:所在区域
+11-09-2019 09:09:32 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100770517.html
+11-09-2019 09:09:33 root:INFO:小区名称
+11-09-2019 09:09:33 root:INFO:所在区域
+11-09-2019 09:09:33 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000186999.html
+11-09-2019 09:09:34 root:INFO:小区名称
+11-09-2019 09:09:34 root:INFO:所在区域
+11-09-2019 09:09:34 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100797682.html
+11-09-2019 09:09:35 root:INFO:小区名称
+11-09-2019 09:09:35 root:INFO:所在区域
+11-09-2019 09:09:35 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000203373.html
+11-09-2019 09:09:36 root:INFO:小区名称
+11-09-2019 09:09:36 root:INFO:所在区域
+11-09-2019 09:09:36 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101441625.html
+11-09-2019 09:09:37 root:INFO:小区名称
+11-09-2019 09:09:37 root:INFO:所在区域
+11-09-2019 09:09:37 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000853613.html
+11-09-2019 09:09:38 root:INFO:小区名称
+11-09-2019 09:09:38 root:INFO:所在区域
+11-09-2019 09:09:38 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101257294.html
+11-09-2019 09:09:39 root:INFO:小区名称
+11-09-2019 09:09:39 root:INFO:所在区域
+11-09-2019 09:09:39 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101094851.html
+11-09-2019 09:09:40 root:INFO:小区名称
+11-09-2019 09:09:40 root:INFO:所在区域
+11-09-2019 09:09:40 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101353556.html
+11-09-2019 09:09:41 root:INFO:小区名称
+11-09-2019 09:09:41 root:INFO:所在区域
+11-09-2019 09:09:41 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101067923.html
+11-09-2019 09:09:42 root:INFO:小区名称
+11-09-2019 09:09:42 root:INFO:所在区域
+11-09-2019 09:09:43 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101359188.html
+11-09-2019 09:09:43 root:INFO:小区名称
+11-09-2019 09:09:43 root:INFO:所在区域
+11-09-2019 09:09:43 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100588092.html
+11-09-2019 09:09:44 root:INFO:小区名称
+11-09-2019 09:09:44 root:INFO:所在区域
+11-09-2019 09:09:44 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100187869.html
+11-09-2019 09:09:45 root:INFO:小区名称
+11-09-2019 09:09:45 root:INFO:所在区域
+11-09-2019 09:09:46 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100304634.html
+11-09-2019 09:09:46 root:INFO:小区名称
+11-09-2019 09:09:46 root:INFO:所在区域
+11-09-2019 09:09:47 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100242855.html
+11-09-2019 09:09:48 root:INFO:小区名称
+11-09-2019 09:09:48 root:INFO:所在区域
+11-09-2019 09:09:48 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101507773.html
+11-09-2019 09:09:49 root:INFO:小区名称
+11-09-2019 09:09:49 root:INFO:所在区域
+11-09-2019 09:09:49 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000386127.html
+11-09-2019 09:09:50 root:INFO:小区名称
+11-09-2019 09:09:50 root:INFO:所在区域
+11-09-2019 09:09:50 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101409524.html
+11-09-2019 09:09:51 root:INFO:小区名称
+11-09-2019 09:09:51 root:INFO:所在区域
+11-09-2019 09:09:51 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100887787.html
+11-09-2019 09:09:52 root:INFO:小区名称
+11-09-2019 09:09:52 root:INFO:所在区域
+11-09-2019 09:09:52 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100296566.html
+11-09-2019 09:09:53 root:INFO:小区名称
+11-09-2019 09:09:53 root:INFO:所在区域
+11-09-2019 09:09:53 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101407216.html
+11-09-2019 09:09:54 root:INFO:小区名称
+11-09-2019 09:09:54 root:INFO:所在区域
+11-09-2019 09:09:54 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100618297.html
+11-09-2019 09:09:55 root:INFO:小区名称
+11-09-2019 09:09:55 root:INFO:所在区域
+11-09-2019 09:09:55 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001702373.html
+11-09-2019 09:09:56 root:INFO:小区名称
+11-09-2019 09:09:56 root:INFO:所在区域
+11-09-2019 09:09:56 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000427429.html
+11-09-2019 09:09:57 root:INFO:小区名称
+11-09-2019 09:09:57 root:INFO:所在区域
+11-09-2019 09:09:57 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101257338.html
+11-09-2019 09:09:58 root:INFO:小区名称
+11-09-2019 09:09:58 root:INFO:所在区域
+11-09-2019 09:09:58 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101238978.html
+11-09-2019 09:09:59 root:INFO:小区名称
+11-09-2019 09:09:59 root:INFO:所在区域
+11-09-2019 09:09:59 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100886097.html
+11-10-2019 09:10:00 root:INFO:小区名称
+11-10-2019 09:10:00 root:INFO:所在区域
+11-10-2019 09:10:00 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100608593.html
+11-10-2019 09:10:01 root:INFO:小区名称
+11-10-2019 09:10:01 root:INFO:所在区域
+11-10-2019 09:10:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101192547.html
+11-10-2019 09:10:02 root:INFO:小区名称
+11-10-2019 09:10:02 root:INFO:所在区域
+11-10-2019 09:10:02 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101220232.html
+11-10-2019 09:10:03 root:INFO:小区名称
+11-10-2019 09:10:03 root:INFO:所在区域
+11-10-2019 09:10:03 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000430813.html
+11-10-2019 09:10:04 root:INFO:小区名称
+11-10-2019 09:10:04 root:INFO:所在区域
+11-10-2019 09:10:04 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101356005.html
+11-10-2019 09:10:05 root:INFO:小区名称
+11-10-2019 09:10:05 root:INFO:所在区域
+11-10-2019 09:10:05 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101501117.html
+11-10-2019 09:10:06 root:INFO:小区名称
+11-10-2019 09:10:06 root:INFO:所在区域
+11-10-2019 09:10:06 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100669581.html
+11-10-2019 09:10:07 root:INFO:小区名称
+11-10-2019 09:10:07 root:INFO:所在区域
+11-10-2019 09:10:07 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101234606.html
+11-10-2019 09:10:09 root:INFO:小区名称
+11-10-2019 09:10:09 root:INFO:所在区域
+11-10-2019 09:10:09 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100249322.html
+11-10-2019 09:10:10 root:INFO:小区名称
+11-10-2019 09:10:10 root:INFO:所在区域
+11-10-2019 09:10:10 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100300092.html
+11-10-2019 09:10:10 root:INFO:小区名称
+11-10-2019 09:10:10 root:INFO:所在区域
+11-10-2019 09:10:11 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100699185.html
+11-10-2019 09:10:12 root:INFO:小区名称
+11-10-2019 09:10:12 root:INFO:所在区域
+11-10-2019 09:10:12 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101141994.html
+11-10-2019 09:10:13 root:INFO:小区名称
+11-10-2019 09:10:13 root:INFO:所在区域
+11-10-2019 09:10:13 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000171999.html
+11-10-2019 09:10:14 root:INFO:小区名称
+11-10-2019 09:10:14 root:INFO:所在区域
+11-10-2019 09:10:14 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100995540.html
+11-10-2019 09:10:15 root:INFO:小区名称
+11-10-2019 09:10:15 root:INFO:所在区域
+11-10-2019 09:10:15 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101463077.html
+11-10-2019 09:10:15 root:INFO:小区名称
+11-10-2019 09:10:15 root:INFO:所在区域
+11-10-2019 09:10:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000280615.html
+11-10-2019 09:10:16 root:INFO:小区名称
+11-10-2019 09:10:16 root:INFO:所在区域
+11-10-2019 09:10:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100647362.html
+11-10-2019 09:10:17 root:INFO:小区名称
+11-10-2019 09:10:17 root:INFO:所在区域
+11-10-2019 09:10:17 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101510583.html
+11-10-2019 09:10:18 root:INFO:小区名称
+11-10-2019 09:10:18 root:INFO:所在区域
+11-10-2019 09:10:18 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101259011.html
+11-10-2019 09:10:19 root:INFO:小区名称
+11-10-2019 09:10:19 root:INFO:所在区域
+11-10-2019 09:10:19 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100244459.html
+11-10-2019 09:10:20 root:INFO:小区名称
+11-10-2019 09:10:20 root:INFO:所在区域
+11-10-2019 09:10:20 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101176675.html
+11-10-2019 09:10:21 root:INFO:小区名称
+11-10-2019 09:10:21 root:INFO:所在区域
+11-10-2019 09:10:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100691396.html
+11-10-2019 09:10:22 root:INFO:小区名称
+11-10-2019 09:10:22 root:INFO:所在区域
+11-10-2019 09:10:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100217550.html
+11-10-2019 09:10:23 root:INFO:小区名称
+11-10-2019 09:10:23 root:INFO:所在区域
+11-10-2019 09:10:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101396931.html
+11-10-2019 09:10:24 root:INFO:小区名称
+11-10-2019 09:10:24 root:INFO:所在区域
+11-10-2019 09:10:24 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101399983.html
+11-10-2019 09:10:25 root:INFO:小区名称
+11-10-2019 09:10:25 root:INFO:所在区域
+11-10-2019 09:10:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101300268.html
+11-10-2019 09:10:26 root:INFO:小区名称
+11-10-2019 09:10:26 root:INFO:所在区域
+11-10-2019 09:10:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100726125.html
+11-10-2019 09:10:27 root:INFO:小区名称
+11-10-2019 09:10:27 root:INFO:所在区域
+11-10-2019 09:10:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000238973.html
+11-10-2019 09:10:28 root:INFO:小区名称
+11-10-2019 09:10:28 root:INFO:所在区域
+11-10-2019 09:10:28 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100636103.html
+11-10-2019 09:10:29 root:INFO:小区名称
+11-10-2019 09:10:29 root:INFO:所在区域
+11-10-2019 09:10:29 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101234707.html
+11-10-2019 09:10:30 root:INFO:小区名称
+11-10-2019 09:10:30 root:INFO:所在区域
+11-10-2019 09:10:30 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100526873.html
+11-10-2019 09:10:31 root:INFO:小区名称
+11-10-2019 09:10:31 root:INFO:所在区域
+11-10-2019 09:10:31 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101434033.html
+11-10-2019 09:10:32 root:INFO:小区名称
+11-10-2019 09:10:32 root:INFO:所在区域
+11-10-2019 09:10:32 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101091207.html
+11-10-2019 09:10:33 root:INFO:小区名称
+11-10-2019 09:10:33 root:INFO:所在区域
+11-10-2019 09:10:33 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100133778.html
+11-10-2019 09:10:34 root:INFO:小区名称
+11-10-2019 09:10:34 root:INFO:所在区域
+11-10-2019 09:10:34 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000180811.html
+11-10-2019 09:10:35 root:INFO:小区名称
+11-10-2019 09:10:35 root:INFO:所在区域
+11-10-2019 09:10:35 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100839083.html
+11-10-2019 09:10:36 root:INFO:小区名称
+11-10-2019 09:10:36 root:INFO:所在区域
+11-10-2019 09:10:36 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101476232.html
+11-10-2019 09:10:37 root:INFO:小区名称
+11-10-2019 09:10:37 root:INFO:所在区域
+11-10-2019 09:10:37 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101246353.html
+11-10-2019 09:10:38 root:INFO:小区名称
+11-10-2019 09:10:38 root:INFO:所在区域
+11-10-2019 09:10:38 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000259089.html
+11-10-2019 09:10:39 root:INFO:小区名称
+11-10-2019 09:10:39 root:INFO:所在区域
+11-10-2019 09:10:39 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000171455.html
+11-10-2019 09:10:40 root:INFO:小区名称
+11-10-2019 09:10:40 root:INFO:所在区域
+11-10-2019 09:10:40 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101399089.html
+11-10-2019 09:10:41 root:INFO:小区名称
+11-10-2019 09:10:41 root:INFO:所在区域
+11-10-2019 09:10:41 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100797950.html
+11-10-2019 09:10:42 root:INFO:小区名称
+11-10-2019 09:10:42 root:INFO:所在区域
+11-10-2019 09:10:42 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101372164.html
+11-10-2019 09:10:43 root:INFO:小区名称
+11-10-2019 09:10:43 root:INFO:所在区域
+11-10-2019 09:10:43 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100834604.html
+11-10-2019 09:10:44 root:INFO:小区名称
+11-10-2019 09:10:44 root:INFO:所在区域
+11-10-2019 09:10:44 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000169327.html
+11-10-2019 09:10:45 root:INFO:小区名称
+11-10-2019 09:10:45 root:INFO:所在区域
+11-10-2019 09:10:46 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100756870.html
+11-10-2019 09:10:46 root:INFO:小区名称
+11-10-2019 09:10:46 root:INFO:所在区域
+11-10-2019 09:10:47 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100581132.html
+11-10-2019 09:10:47 root:INFO:小区名称
+11-10-2019 09:10:47 root:INFO:所在区域
+11-10-2019 09:10:48 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101362313.html
+11-10-2019 09:10:49 root:INFO:小区名称
+11-10-2019 09:10:49 root:INFO:所在区域
+11-10-2019 09:10:49 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101294005.html
+11-10-2019 09:10:50 root:INFO:小区名称
+11-10-2019 09:10:50 root:INFO:所在区域
+11-10-2019 09:10:50 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101406111.html
+11-10-2019 09:10:51 root:INFO:小区名称
+11-10-2019 09:10:51 root:INFO:所在区域
+11-10-2019 09:10:51 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101454882.html
+11-10-2019 09:10:52 root:INFO:小区名称
+11-10-2019 09:10:52 root:INFO:所在区域
+11-10-2019 09:10:52 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002061719.html
+11-10-2019 09:10:53 root:INFO:小区名称
+11-10-2019 09:10:53 root:INFO:所在区域
+11-10-2019 09:10:53 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100389395.html
+11-10-2019 09:10:54 root:INFO:小区名称
+11-10-2019 09:10:54 root:INFO:所在区域
+11-10-2019 09:10:54 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100629554.html
+11-10-2019 09:10:55 root:INFO:小区名称
+11-10-2019 09:10:55 root:INFO:所在区域
+11-10-2019 09:10:55 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100651947.html
+11-10-2019 09:10:56 root:INFO:小区名称
+11-10-2019 09:10:56 root:INFO:所在区域
+11-10-2019 09:10:56 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101318834.html
+11-10-2019 09:10:57 root:INFO:小区名称
+11-10-2019 09:10:57 root:INFO:所在区域
+11-10-2019 09:10:57 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100506576.html
+11-10-2019 09:10:58 root:INFO:小区名称
+11-10-2019 09:10:58 root:INFO:所在区域
+11-10-2019 09:10:58 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100699761.html
+11-10-2019 09:10:59 root:INFO:小区名称
+11-10-2019 09:10:59 root:INFO:所在区域
+11-10-2019 09:10:59 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000242025.html
+11-11-2019 09:11:00 root:INFO:小区名称
+11-11-2019 09:11:00 root:INFO:所在区域
+11-11-2019 09:11:00 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100694057.html
+11-11-2019 09:11:01 root:INFO:小区名称
+11-11-2019 09:11:01 root:INFO:所在区域
+11-11-2019 09:11:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101449595.html
+11-11-2019 09:11:02 root:INFO:小区名称
+11-11-2019 09:11:02 root:INFO:所在区域
+11-11-2019 09:11:02 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100404677.html
+11-11-2019 09:11:03 root:INFO:小区名称
+11-11-2019 09:11:03 root:INFO:所在区域
+11-11-2019 09:11:03 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100467439.html
+11-11-2019 09:11:04 root:INFO:小区名称
+11-11-2019 09:11:04 root:INFO:所在区域
+11-11-2019 09:11:04 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101236016.html
+11-11-2019 09:11:05 root:INFO:小区名称
+11-11-2019 09:11:05 root:INFO:所在区域
+11-11-2019 09:11:05 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100429801.html
+11-11-2019 09:11:06 root:INFO:小区名称
+11-11-2019 09:11:06 root:INFO:所在区域
+11-11-2019 09:11:06 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101118001.html
+11-11-2019 09:11:07 root:INFO:小区名称
+11-11-2019 09:11:07 root:INFO:所在区域
+11-11-2019 09:11:07 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100770764.html
+11-11-2019 09:11:08 root:INFO:小区名称
+11-11-2019 09:11:08 root:INFO:所在区域
+11-11-2019 09:11:08 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000199493.html
+11-11-2019 09:11:09 root:INFO:小区名称
+11-11-2019 09:11:09 root:INFO:所在区域
+11-11-2019 09:11:09 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100451649.html
+11-11-2019 09:11:10 root:INFO:小区名称
+11-11-2019 09:11:10 root:INFO:所在区域
+11-11-2019 09:11:10 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101486918.html
+11-11-2019 09:11:11 root:INFO:小区名称
+11-11-2019 09:11:11 root:INFO:所在区域
+11-11-2019 09:11:11 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101351910.html
+11-11-2019 09:11:12 root:INFO:小区名称
+11-11-2019 09:11:12 root:INFO:所在区域
+11-11-2019 09:11:12 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000124359.html
+11-11-2019 09:11:13 root:INFO:小区名称
+11-11-2019 09:11:13 root:INFO:所在区域
+11-11-2019 09:11:13 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101096390.html
+11-11-2019 09:11:14 root:INFO:小区名称
+11-11-2019 09:11:14 root:INFO:所在区域
+11-11-2019 09:11:14 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101456008.html
+11-11-2019 09:11:15 root:INFO:小区名称
+11-11-2019 09:11:15 root:INFO:所在区域
+11-11-2019 09:11:15 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101048180.html
+11-11-2019 09:11:16 root:INFO:小区名称
+11-11-2019 09:11:16 root:INFO:所在区域
+11-11-2019 09:11:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100655647.html
+11-11-2019 09:11:17 root:INFO:小区名称
+11-11-2019 09:11:17 root:INFO:所在区域
+11-11-2019 09:11:17 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000166645.html
+11-11-2019 09:11:18 root:INFO:小区名称
+11-11-2019 09:11:18 root:INFO:所在区域
+11-11-2019 09:11:18 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101139105.html
+11-11-2019 09:11:19 root:INFO:小区名称
+11-11-2019 09:11:19 root:INFO:所在区域
+11-11-2019 09:11:19 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100243532.html
+11-11-2019 09:11:20 root:INFO:小区名称
+11-11-2019 09:11:20 root:INFO:所在区域
+11-11-2019 09:11:20 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101033599.html
+11-11-2019 09:11:21 root:INFO:小区名称
+11-11-2019 09:11:21 root:INFO:所在区域
+11-11-2019 09:11:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100985685.html
+11-11-2019 09:11:22 root:INFO:小区名称
+11-11-2019 09:11:22 root:INFO:所在区域
+11-11-2019 09:11:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100770254.html
+11-11-2019 09:11:23 root:INFO:小区名称
+11-11-2019 09:11:23 root:INFO:所在区域
+11-11-2019 09:11:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100640515.html
+11-11-2019 09:11:24 root:INFO:小区名称
+11-11-2019 09:11:24 root:INFO:所在区域
+11-11-2019 09:11:24 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100766519.html
+11-11-2019 09:11:25 root:INFO:小区名称
+11-11-2019 09:11:25 root:INFO:所在区域
+11-11-2019 09:11:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100280636.html
+11-11-2019 09:11:26 root:INFO:小区名称
+11-11-2019 09:11:26 root:INFO:所在区域
+11-11-2019 09:11:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100198268.html
+11-11-2019 09:11:27 root:INFO:小区名称
+11-11-2019 09:11:27 root:INFO:所在区域
+11-11-2019 09:11:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100338779.html
+11-11-2019 09:11:28 root:INFO:小区名称
+11-11-2019 09:11:28 root:INFO:所在区域
+11-11-2019 09:11:28 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101076812.html
+11-11-2019 09:11:29 root:INFO:小区名称
+11-11-2019 09:11:29 root:INFO:所在区域
+11-11-2019 09:11:29 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101400309.html
+11-11-2019 09:11:30 root:INFO:小区名称
+11-11-2019 09:11:30 root:INFO:所在区域
+11-11-2019 09:11:30 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100897269.html
+11-11-2019 09:11:31 root:INFO:小区名称
+11-11-2019 09:11:31 root:INFO:所在区域
+11-11-2019 09:11:31 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101277694.html
+11-11-2019 09:11:32 root:INFO:小区名称
+11-11-2019 09:11:32 root:INFO:所在区域
+11-11-2019 09:11:32 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101403759.html
+11-11-2019 09:11:33 root:INFO:小区名称
+11-11-2019 09:11:33 root:INFO:所在区域
+11-11-2019 09:11:33 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100248229.html
+11-11-2019 09:11:34 root:INFO:小区名称
+11-11-2019 09:11:34 root:INFO:所在区域
+11-11-2019 09:11:34 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101037132.html
+11-11-2019 09:11:35 root:INFO:小区名称
+11-11-2019 09:11:35 root:INFO:所在区域
+11-11-2019 09:11:35 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000273659.html
+11-11-2019 09:11:36 root:INFO:小区名称
+11-11-2019 09:11:36 root:INFO:所在区域
+11-11-2019 09:11:36 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002080873.html
+11-11-2019 09:11:37 root:INFO:小区名称
+11-11-2019 09:11:37 root:INFO:所在区域
+11-11-2019 09:11:37 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100357638.html
+11-11-2019 09:11:38 root:INFO:小区名称
+11-11-2019 09:11:38 root:INFO:所在区域
+11-11-2019 09:11:38 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101302223.html
+11-11-2019 09:11:39 root:INFO:小区名称
+11-11-2019 09:11:39 root:INFO:所在区域
+11-11-2019 09:11:39 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000142315.html
+11-11-2019 09:11:40 root:INFO:小区名称
+11-11-2019 09:11:40 root:INFO:所在区域
+11-11-2019 09:11:40 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101032540.html
+11-11-2019 09:11:41 root:INFO:小区名称
+11-11-2019 09:11:41 root:INFO:所在区域
+11-11-2019 09:11:41 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101172662.html
+11-11-2019 09:11:42 root:INFO:小区名称
+11-11-2019 09:11:42 root:INFO:所在区域
+11-11-2019 09:11:42 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100248240.html
+11-11-2019 09:11:43 root:INFO:小区名称
+11-11-2019 09:11:43 root:INFO:所在区域
+11-11-2019 09:11:43 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101356843.html
+11-11-2019 09:11:44 root:INFO:小区名称
+11-11-2019 09:11:44 root:INFO:所在区域
+11-11-2019 09:11:44 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100954284.html
+11-11-2019 09:11:45 root:INFO:小区名称
+11-11-2019 09:11:45 root:INFO:所在区域
+11-11-2019 09:11:45 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000054671.html
+11-11-2019 09:11:46 root:INFO:小区名称
+11-11-2019 09:11:46 root:INFO:所在区域
+11-11-2019 09:11:46 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100320514.html
+11-11-2019 09:11:47 root:INFO:小区名称
+11-11-2019 09:11:47 root:INFO:所在区域
+11-11-2019 09:11:47 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100462249.html
+11-11-2019 09:11:48 root:INFO:小区名称
+11-11-2019 09:11:48 root:INFO:所在区域
+11-11-2019 09:11:48 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100454060.html
+11-11-2019 09:11:49 root:INFO:小区名称
+11-11-2019 09:11:49 root:INFO:所在区域
+11-11-2019 09:11:49 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101340060.html
+11-11-2019 09:11:50 root:INFO:小区名称
+11-11-2019 09:11:50 root:INFO:所在区域
+11-11-2019 09:11:50 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101296082.html
+11-11-2019 09:11:51 root:INFO:小区名称
+11-11-2019 09:11:51 root:INFO:所在区域
+11-11-2019 09:11:51 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100788474.html
+11-11-2019 09:11:52 root:INFO:小区名称
+11-11-2019 09:11:52 root:INFO:所在区域
+11-11-2019 09:11:52 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101351991.html
+11-11-2019 09:11:53 root:INFO:小区名称
+11-11-2019 09:11:53 root:INFO:所在区域
+11-11-2019 09:11:53 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100446731.html
+11-11-2019 09:11:54 root:INFO:小区名称
+11-11-2019 09:11:54 root:INFO:所在区域
+11-11-2019 09:11:54 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100047930.html
+11-11-2019 09:11:55 root:INFO:小区名称
+11-11-2019 09:11:55 root:INFO:所在区域
+11-11-2019 09:11:55 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100806030.html
+11-11-2019 09:11:55 root:INFO:小区名称
+11-11-2019 09:11:55 root:INFO:所在区域
+11-11-2019 09:11:56 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000171295.html
+11-11-2019 09:11:57 root:INFO:小区名称
+11-11-2019 09:11:57 root:INFO:所在区域
+11-11-2019 09:11:57 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000249507.html
+11-11-2019 09:11:58 root:INFO:小区名称
+11-11-2019 09:11:58 root:INFO:所在区域
+11-11-2019 09:11:58 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100311581.html
+11-11-2019 09:11:59 root:INFO:小区名称
+11-11-2019 09:11:59 root:INFO:所在区域
+11-11-2019 09:11:59 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100616574.html
+11-12-2019 09:12:00 root:INFO:小区名称
+11-12-2019 09:12:00 root:INFO:所在区域
+11-12-2019 09:12:00 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101286264.html
+11-12-2019 09:12:00 root:INFO:小区名称
+11-12-2019 09:12:00 root:INFO:所在区域
+11-12-2019 09:12:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001058475.html
+11-12-2019 09:12:01 root:INFO:小区名称
+11-12-2019 09:12:01 root:INFO:所在区域
+11-12-2019 09:12:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000385721.html
+11-12-2019 09:12:02 root:INFO:小区名称
+11-12-2019 09:12:02 root:INFO:所在区域
+11-12-2019 09:12:02 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101188631.html
+11-12-2019 09:12:03 root:INFO:小区名称
+11-12-2019 09:12:03 root:INFO:所在区域
+11-12-2019 09:12:03 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100970705.html
+11-12-2019 09:12:04 root:INFO:小区名称
+11-12-2019 09:12:04 root:INFO:所在区域
+11-12-2019 09:12:04 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101228677.html
+11-12-2019 09:12:05 root:INFO:小区名称
+11-12-2019 09:12:05 root:INFO:所在区域
+11-12-2019 09:12:05 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100341470.html
+11-12-2019 09:12:06 root:INFO:小区名称
+11-12-2019 09:12:06 root:INFO:所在区域
+11-12-2019 09:12:06 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101444129.html
+11-12-2019 09:12:07 root:INFO:小区名称
+11-12-2019 09:12:07 root:INFO:所在区域
+11-12-2019 09:12:07 root:INFO:biyun district is done.
+11-12-2019 09:12:07 root:INFO:start handling district: caolu
+11-12-2019 09:12:08 root:INFO:district caolu , house count:487
+11-12-2019 09:12:08 root:INFO:handling directory page 1
+11-12-2019 09:12:09 root:INFO:handling directory page 2
+11-12-2019 09:12:10 root:INFO:handling directory page 3
+11-12-2019 09:12:11 root:INFO:handling directory page 4
+11-12-2019 09:12:12 root:INFO:handling directory page 5
+11-12-2019 09:12:12 root:INFO:handling directory page 6
+11-12-2019 09:12:13 root:INFO:handling directory page 7
+11-12-2019 09:12:14 root:INFO:handling directory page 8
+11-12-2019 09:12:15 root:INFO:handling directory page 9
+11-12-2019 09:12:16 root:INFO:handling directory page 10
+11-12-2019 09:12:17 root:INFO:handling directory page 11
+11-12-2019 09:12:18 root:INFO:handling directory page 12
+11-12-2019 09:12:18 root:INFO:handling directory page 13
+11-12-2019 09:12:19 root:INFO:handling directory page 14
+11-12-2019 09:12:20 root:INFO:handling directory page 15
+11-12-2019 09:12:21 root:INFO:handling directory page 16
+11-12-2019 09:12:22 root:INFO:handling directory page 17
+11-12-2019 09:12:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001246555.html
+11-12-2019 09:12:23 root:INFO:小区名称
+11-12-2019 09:12:23 root:INFO:所在区域
+11-12-2019 09:12:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101063675.html
+11-12-2019 09:12:24 root:INFO:小区名称
+11-12-2019 09:12:24 root:INFO:所在区域
+11-12-2019 09:12:24 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101248585.html
+11-12-2019 09:12:25 root:INFO:小区名称
+11-12-2019 09:12:25 root:INFO:所在区域
+11-12-2019 09:12:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101353047.html
+11-12-2019 09:12:26 root:INFO:小区名称
+11-12-2019 09:12:26 root:INFO:所在区域
+11-12-2019 09:12:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101217303.html
+11-12-2019 09:12:27 root:INFO:小区名称
+11-12-2019 09:12:27 root:INFO:所在区域
+11-12-2019 09:12:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100088619.html
+11-12-2019 09:12:28 root:INFO:小区名称
+11-12-2019 09:12:28 root:INFO:所在区域
+11-12-2019 09:12:28 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101334895.html
+11-12-2019 09:12:29 root:INFO:小区名称
+11-12-2019 09:12:29 root:INFO:所在区域
+11-12-2019 09:12:29 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101305506.html
+11-12-2019 09:12:30 root:INFO:小区名称
+11-12-2019 09:12:30 root:INFO:所在区域
+11-12-2019 09:12:30 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101438574.html
+11-12-2019 09:12:32 root:INFO:小区名称
+11-12-2019 09:12:32 root:INFO:所在区域
+11-12-2019 09:12:32 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100559985.html
+11-12-2019 09:12:33 root:INFO:小区名称
+11-12-2019 09:12:33 root:INFO:所在区域
+11-12-2019 09:12:33 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100535626.html
+11-12-2019 09:12:34 root:INFO:小区名称
+11-12-2019 09:12:34 root:INFO:所在区域
+11-12-2019 09:12:34 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101423968.html
+11-12-2019 09:12:35 root:INFO:小区名称
+11-12-2019 09:12:35 root:INFO:所在区域
+11-12-2019 09:12:35 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100974819.html
+11-12-2019 09:12:36 root:INFO:小区名称
+11-12-2019 09:12:36 root:INFO:所在区域
+11-12-2019 09:12:36 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100266341.html
+11-12-2019 09:12:37 root:INFO:小区名称
+11-12-2019 09:12:37 root:INFO:所在区域
+11-12-2019 09:12:37 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101383091.html
+11-12-2019 09:12:38 root:INFO:小区名称
+11-12-2019 09:12:38 root:INFO:所在区域
+11-12-2019 09:12:38 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101285037.html
+11-12-2019 09:12:39 root:INFO:小区名称
+11-12-2019 09:12:39 root:INFO:所在区域
+11-12-2019 09:12:39 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002271489.html
+11-12-2019 09:12:40 root:INFO:小区名称
+11-12-2019 09:12:40 root:INFO:所在区域
+11-12-2019 09:12:40 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101265495.html
+11-12-2019 09:12:41 root:INFO:小区名称
+11-12-2019 09:12:41 root:INFO:所在区域
+11-12-2019 09:12:41 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101291507.html
+11-12-2019 09:12:42 root:INFO:小区名称
+11-12-2019 09:12:42 root:INFO:所在区域
+11-12-2019 09:12:42 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100680956.html
+11-12-2019 09:12:43 root:INFO:小区名称
+11-12-2019 09:12:43 root:INFO:所在区域
+11-12-2019 09:12:43 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002104219.html
+11-12-2019 09:12:44 root:INFO:小区名称
+11-12-2019 09:12:44 root:INFO:所在区域
+11-12-2019 09:12:44 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101441990.html
+11-12-2019 09:12:45 root:INFO:小区名称
+11-12-2019 09:12:45 root:INFO:所在区域
+11-12-2019 09:12:45 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101395676.html
+11-12-2019 09:12:46 root:INFO:小区名称
+11-12-2019 09:12:46 root:INFO:所在区域
+11-12-2019 09:12:46 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101468504.html
+11-12-2019 09:12:47 root:INFO:小区名称
+11-12-2019 09:12:47 root:INFO:所在区域
+11-12-2019 09:12:48 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101480026.html
+11-12-2019 09:12:48 root:INFO:小区名称
+11-12-2019 09:12:48 root:INFO:所在区域
+11-12-2019 09:12:49 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101222664.html
+11-12-2019 09:12:50 root:INFO:小区名称
+11-12-2019 09:12:50 root:INFO:所在区域
+11-12-2019 09:12:50 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101432323.html
+11-12-2019 09:12:51 root:INFO:小区名称
+11-12-2019 09:12:51 root:INFO:所在区域
+11-12-2019 09:12:51 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100959306.html
+11-12-2019 09:12:52 root:INFO:小区名称
+11-12-2019 09:12:52 root:INFO:所在区域
+11-12-2019 09:12:52 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101219113.html
+11-12-2019 09:12:53 root:INFO:小区名称
+11-12-2019 09:12:53 root:INFO:所在区域
+11-12-2019 09:12:53 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101373216.html
+11-12-2019 09:12:54 root:INFO:小区名称
+11-12-2019 09:12:54 root:INFO:所在区域
+11-12-2019 09:12:54 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101359857.html
+11-12-2019 09:12:55 root:INFO:小区名称
+11-12-2019 09:12:55 root:INFO:所在区域
+11-12-2019 09:12:55 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101173599.html
+11-12-2019 09:12:56 root:INFO:小区名称
+11-12-2019 09:12:56 root:INFO:所在区域
+11-12-2019 09:12:56 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101438261.html
+11-12-2019 09:12:57 root:INFO:小区名称
+11-12-2019 09:12:57 root:INFO:所在区域
+11-12-2019 09:12:57 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101082571.html
+11-12-2019 09:12:58 root:INFO:小区名称
+11-12-2019 09:12:58 root:INFO:所在区域
+11-12-2019 09:12:59 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100382768.html
+11-13-2019 09:13:00 root:INFO:小区名称
+11-13-2019 09:13:00 root:INFO:所在区域
+11-13-2019 09:13:00 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100201801.html
+11-13-2019 09:13:01 root:INFO:小区名称
+11-13-2019 09:13:01 root:INFO:所在区域
+11-13-2019 09:13:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001542847.html
+11-13-2019 09:13:01 root:INFO:小区名称
+11-13-2019 09:13:01 root:INFO:所在区域
+11-13-2019 09:13:02 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100311099.html
+11-13-2019 09:13:03 root:INFO:小区名称
+11-13-2019 09:13:03 root:INFO:所在区域
+11-13-2019 09:13:03 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100563830.html
+11-13-2019 09:13:04 root:INFO:小区名称
+11-13-2019 09:13:04 root:INFO:所在区域
+11-13-2019 09:13:04 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101453774.html
+11-13-2019 09:13:05 root:INFO:小区名称
+11-13-2019 09:13:05 root:INFO:所在区域
+11-13-2019 09:13:05 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101402401.html
+11-13-2019 09:13:06 root:INFO:小区名称
+11-13-2019 09:13:06 root:INFO:所在区域
+11-13-2019 09:13:06 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101369915.html
+11-13-2019 09:13:07 root:INFO:小区名称
+11-13-2019 09:13:07 root:INFO:所在区域
+11-13-2019 09:13:07 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100838530.html
+11-13-2019 09:13:08 root:INFO:小区名称
+11-13-2019 09:13:08 root:INFO:所在区域
+11-13-2019 09:13:08 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101184958.html
+11-13-2019 09:13:09 root:INFO:小区名称
+11-13-2019 09:13:09 root:INFO:所在区域
+11-13-2019 09:13:09 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100928260.html
+11-13-2019 09:13:10 root:INFO:小区名称
+11-13-2019 09:13:10 root:INFO:所在区域
+11-13-2019 09:13:10 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100829692.html
+11-13-2019 09:13:11 root:INFO:小区名称
+11-13-2019 09:13:11 root:INFO:所在区域
+11-13-2019 09:13:11 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001719195.html
+11-13-2019 09:13:12 root:INFO:小区名称
+11-13-2019 09:13:12 root:INFO:所在区域
+11-13-2019 09:13:12 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100997156.html
+11-13-2019 09:13:13 root:INFO:小区名称
+11-13-2019 09:13:13 root:INFO:所在区域
+11-13-2019 09:13:14 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101409661.html
+11-13-2019 09:13:15 root:INFO:小区名称
+11-13-2019 09:13:15 root:INFO:所在区域
+11-13-2019 09:13:15 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100610369.html
+11-13-2019 09:13:16 root:INFO:小区名称
+11-13-2019 09:13:16 root:INFO:所在区域
+11-13-2019 09:13:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101136941.html
+11-13-2019 09:13:17 root:INFO:小区名称
+11-13-2019 09:13:17 root:INFO:所在区域
+11-13-2019 09:13:17 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101403806.html
+11-13-2019 09:13:18 root:INFO:小区名称
+11-13-2019 09:13:18 root:INFO:所在区域
+11-13-2019 09:13:18 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100332425.html
+11-13-2019 09:13:19 root:INFO:小区名称
+11-13-2019 09:13:19 root:INFO:所在区域
+11-13-2019 09:13:19 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101140579.html
+11-13-2019 09:13:20 root:INFO:小区名称
+11-13-2019 09:13:20 root:INFO:所在区域
+11-13-2019 09:13:20 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101294145.html
+11-13-2019 09:13:21 root:INFO:小区名称
+11-13-2019 09:13:21 root:INFO:所在区域
+11-13-2019 09:13:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100921763.html
+11-13-2019 09:13:22 root:INFO:小区名称
+11-13-2019 09:13:22 root:INFO:所在区域
+11-13-2019 09:13:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100543780.html
+11-13-2019 09:13:23 root:INFO:小区名称
+11-13-2019 09:13:23 root:INFO:所在区域
+11-13-2019 09:13:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100748675.html
+11-13-2019 09:13:24 root:INFO:小区名称
+11-13-2019 09:13:24 root:INFO:所在区域
+11-13-2019 09:13:24 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100222631.html
+11-13-2019 09:13:25 root:INFO:小区名称
+11-13-2019 09:13:25 root:INFO:所在区域
+11-13-2019 09:13:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100537769.html
+11-13-2019 09:13:26 root:INFO:小区名称
+11-13-2019 09:13:26 root:INFO:所在区域
+11-13-2019 09:13:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101062545.html
+11-13-2019 09:13:27 root:INFO:小区名称
+11-13-2019 09:13:27 root:INFO:所在区域
+11-13-2019 09:13:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100266497.html
+11-13-2019 09:13:28 root:INFO:小区名称
+11-13-2019 09:13:28 root:INFO:所在区域
+11-13-2019 09:13:28 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101088533.html
+11-13-2019 09:13:29 root:INFO:小区名称
+11-13-2019 09:13:29 root:INFO:所在区域
+11-13-2019 09:13:29 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101328373.html
+11-13-2019 09:13:30 root:INFO:小区名称
+11-13-2019 09:13:30 root:INFO:所在区域
+11-13-2019 09:13:30 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101401990.html
+11-13-2019 09:13:31 root:INFO:小区名称
+11-13-2019 09:13:31 root:INFO:所在区域
+11-13-2019 09:13:31 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100090061.html
+11-13-2019 09:13:32 root:INFO:小区名称
+11-13-2019 09:13:32 root:INFO:所在区域
+11-13-2019 09:13:32 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100676875.html
+11-13-2019 09:13:33 root:INFO:小区名称
+11-13-2019 09:13:33 root:INFO:所在区域
+11-13-2019 09:13:33 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101369893.html
+11-13-2019 09:13:35 root:INFO:小区名称
+11-13-2019 09:13:35 root:INFO:所在区域
+11-13-2019 09:13:35 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100855268.html
+11-13-2019 09:13:36 root:INFO:小区名称
+11-13-2019 09:13:36 root:INFO:所在区域
+11-13-2019 09:13:36 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101267306.html
+11-13-2019 09:13:37 root:INFO:小区名称
+11-13-2019 09:13:37 root:INFO:所在区域
+11-13-2019 09:13:37 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001956281.html
+11-13-2019 09:13:38 root:INFO:小区名称
+11-13-2019 09:13:38 root:INFO:所在区域
+11-13-2019 09:13:38 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101344474.html
+11-13-2019 09:13:39 root:INFO:小区名称
+11-13-2019 09:13:39 root:INFO:所在区域
+11-13-2019 09:13:39 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101378994.html
+11-13-2019 09:13:40 root:INFO:小区名称
+11-13-2019 09:13:40 root:INFO:所在区域
+11-13-2019 09:13:40 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100996285.html
+11-13-2019 09:13:41 root:INFO:小区名称
+11-13-2019 09:13:41 root:INFO:所在区域
+11-13-2019 09:13:41 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101410045.html
+11-13-2019 09:13:42 root:INFO:小区名称
+11-13-2019 09:13:42 root:INFO:所在区域
+11-13-2019 09:13:42 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101021429.html
+11-13-2019 09:13:43 root:INFO:小区名称
+11-13-2019 09:13:43 root:INFO:所在区域
+11-13-2019 09:13:44 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001950279.html
+11-13-2019 09:13:44 root:INFO:小区名称
+11-13-2019 09:13:44 root:INFO:所在区域
+11-13-2019 09:13:45 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100953828.html
+11-13-2019 09:13:46 root:INFO:小区名称
+11-13-2019 09:13:46 root:INFO:所在区域
+11-13-2019 09:13:46 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101283120.html
+11-13-2019 09:13:47 root:INFO:小区名称
+11-13-2019 09:13:47 root:INFO:所在区域
+11-13-2019 09:13:47 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101471099.html
+11-13-2019 09:13:48 root:INFO:小区名称
+11-13-2019 09:13:48 root:INFO:所在区域
+11-13-2019 09:13:48 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002271807.html
+11-13-2019 09:13:49 root:INFO:小区名称
+11-13-2019 09:13:49 root:INFO:所在区域
+11-13-2019 09:13:49 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100077475.html
+11-13-2019 09:13:50 root:INFO:小区名称
+11-13-2019 09:13:50 root:INFO:所在区域
+11-13-2019 09:13:50 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100228172.html
+11-13-2019 09:13:51 root:INFO:小区名称
+11-13-2019 09:13:51 root:INFO:所在区域
+11-13-2019 09:13:51 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002048913.html
+11-13-2019 09:13:52 root:INFO:小区名称
+11-13-2019 09:13:52 root:INFO:所在区域
+11-13-2019 09:13:52 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100261324.html
+11-13-2019 09:13:53 root:INFO:小区名称
+11-13-2019 09:13:53 root:INFO:所在区域
+11-13-2019 09:13:53 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101005318.html
+11-13-2019 09:13:54 root:INFO:小区名称
+11-13-2019 09:13:54 root:INFO:所在区域
+11-13-2019 09:13:54 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101325312.html
+11-13-2019 09:13:55 root:INFO:小区名称
+11-13-2019 09:13:55 root:INFO:所在区域
+11-13-2019 09:13:55 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100511947.html
+11-13-2019 09:13:56 root:INFO:小区名称
+11-13-2019 09:13:56 root:INFO:所在区域
+11-13-2019 09:13:56 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000411427.html
+11-13-2019 09:13:57 root:INFO:小区名称
+11-13-2019 09:13:57 root:INFO:所在区域
+11-13-2019 09:13:57 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002145905.html
+11-13-2019 09:13:58 root:INFO:小区名称
+11-13-2019 09:13:58 root:INFO:所在区域
+11-13-2019 09:13:58 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100536918.html
+11-13-2019 09:13:59 root:INFO:小区名称
+11-13-2019 09:13:59 root:INFO:所在区域
+11-13-2019 09:13:59 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101145558.html
+11-14-2019 09:14:00 root:INFO:小区名称
+11-14-2019 09:14:00 root:INFO:所在区域
+11-14-2019 09:14:00 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101301765.html
+11-14-2019 09:14:01 root:INFO:小区名称
+11-14-2019 09:14:01 root:INFO:所在区域
+11-14-2019 09:14:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100557250.html
+11-14-2019 09:14:02 root:INFO:小区名称
+11-14-2019 09:14:02 root:INFO:所在区域
+11-14-2019 09:14:02 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001870841.html
+11-14-2019 09:14:03 root:INFO:小区名称
+11-14-2019 09:14:03 root:INFO:所在区域
+11-14-2019 09:14:03 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002342267.html
+11-14-2019 09:14:04 root:INFO:小区名称
+11-14-2019 09:14:04 root:INFO:所在区域
+11-14-2019 09:14:04 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100099478.html
+11-14-2019 09:14:05 root:INFO:小区名称
+11-14-2019 09:14:05 root:INFO:所在区域
+11-14-2019 09:14:05 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101394816.html
+11-14-2019 09:14:06 root:INFO:小区名称
+11-14-2019 09:14:06 root:INFO:所在区域
+11-14-2019 09:14:06 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101510018.html
+11-14-2019 09:14:07 root:INFO:小区名称
+11-14-2019 09:14:07 root:INFO:所在区域
+11-14-2019 09:14:07 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100849809.html
+11-14-2019 09:14:08 root:INFO:小区名称
+11-14-2019 09:14:08 root:INFO:所在区域
+11-14-2019 09:14:08 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001419779.html
+11-14-2019 09:14:09 root:INFO:小区名称
+11-14-2019 09:14:09 root:INFO:所在区域
+11-14-2019 09:14:09 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100444545.html
+11-14-2019 09:14:10 root:INFO:小区名称
+11-14-2019 09:14:10 root:INFO:所在区域
+11-14-2019 09:14:10 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002028029.html
+11-14-2019 09:14:11 root:INFO:小区名称
+11-14-2019 09:14:11 root:INFO:所在区域
+11-14-2019 09:14:11 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100179025.html
+11-14-2019 09:14:12 root:INFO:小区名称
+11-14-2019 09:14:12 root:INFO:所在区域
+11-14-2019 09:14:12 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002199823.html
+11-14-2019 09:14:13 root:INFO:小区名称
+11-14-2019 09:14:13 root:INFO:所在区域
+11-14-2019 09:14:13 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101406042.html
+11-14-2019 09:14:14 root:INFO:小区名称
+11-14-2019 09:14:14 root:INFO:所在区域
+11-14-2019 09:14:14 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100266600.html
+11-14-2019 09:14:15 root:INFO:小区名称
+11-14-2019 09:14:15 root:INFO:所在区域
+11-14-2019 09:14:15 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101164150.html
+11-14-2019 09:14:16 root:INFO:小区名称
+11-14-2019 09:14:16 root:INFO:所在区域
+11-14-2019 09:14:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101045675.html
+11-14-2019 09:14:17 root:INFO:小区名称
+11-14-2019 09:14:17 root:INFO:所在区域
+11-14-2019 09:14:17 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100244362.html
+11-14-2019 09:14:18 root:INFO:小区名称
+11-14-2019 09:14:18 root:INFO:所在区域
+11-14-2019 09:14:18 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100177826.html
+11-14-2019 09:14:19 root:INFO:小区名称
+11-14-2019 09:14:19 root:INFO:所在区域
+11-14-2019 09:14:19 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100735839.html
+11-14-2019 09:14:20 root:INFO:小区名称
+11-14-2019 09:14:20 root:INFO:所在区域
+11-14-2019 09:14:20 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100138031.html
+11-14-2019 09:14:21 root:INFO:小区名称
+11-14-2019 09:14:21 root:INFO:所在区域
+11-14-2019 09:14:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101194174.html
+11-14-2019 09:14:22 root:INFO:小区名称
+11-14-2019 09:14:22 root:INFO:所在区域
+11-14-2019 09:14:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100315199.html
+11-14-2019 09:14:23 root:INFO:小区名称
+11-14-2019 09:14:23 root:INFO:所在区域
+11-14-2019 09:14:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101298652.html
+11-14-2019 09:14:24 root:INFO:小区名称
+11-14-2019 09:14:24 root:INFO:所在区域
+11-14-2019 09:14:24 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001265727.html
+11-14-2019 09:14:25 root:INFO:小区名称
+11-14-2019 09:14:25 root:INFO:所在区域
+11-14-2019 09:14:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101398666.html
+11-14-2019 09:14:26 root:INFO:小区名称
+11-14-2019 09:14:26 root:INFO:所在区域
+11-14-2019 09:14:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100546730.html
+11-14-2019 09:14:27 root:INFO:小区名称
+11-14-2019 09:14:27 root:INFO:所在区域
+11-14-2019 09:14:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101227530.html
+11-14-2019 09:14:28 root:INFO:小区名称
+11-14-2019 09:14:28 root:INFO:所在区域
+11-14-2019 09:14:28 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101194407.html
+11-14-2019 09:14:29 root:INFO:小区名称
+11-14-2019 09:14:29 root:INFO:所在区域
+11-14-2019 09:14:30 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101309286.html
+11-14-2019 09:14:30 root:INFO:小区名称
+11-14-2019 09:14:30 root:INFO:所在区域
+11-14-2019 09:14:31 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100533989.html
+11-14-2019 09:14:32 root:INFO:小区名称
+11-14-2019 09:14:32 root:INFO:所在区域
+11-14-2019 09:14:32 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101102667.html
+11-14-2019 09:14:33 root:INFO:小区名称
+11-14-2019 09:14:33 root:INFO:所在区域
+11-14-2019 09:14:33 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001904945.html
+11-14-2019 09:14:34 root:INFO:小区名称
+11-14-2019 09:14:34 root:INFO:所在区域
+11-14-2019 09:14:34 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100983173.html
+11-14-2019 09:14:35 root:INFO:小区名称
+11-14-2019 09:14:35 root:INFO:所在区域
+11-14-2019 09:14:35 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101291809.html
+11-14-2019 09:14:36 root:INFO:小区名称
+11-14-2019 09:14:36 root:INFO:所在区域
+11-14-2019 09:14:36 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100976807.html
+11-14-2019 09:14:37 root:INFO:小区名称
+11-14-2019 09:14:37 root:INFO:所在区域
+11-14-2019 09:14:37 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101314325.html
+11-14-2019 09:14:38 root:INFO:小区名称
+11-14-2019 09:14:38 root:INFO:所在区域
+11-14-2019 09:14:38 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101225488.html
+11-14-2019 09:14:39 root:INFO:小区名称
+11-14-2019 09:14:39 root:INFO:所在区域
+11-14-2019 09:14:39 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101310797.html
+11-14-2019 09:14:40 root:INFO:小区名称
+11-14-2019 09:14:40 root:INFO:所在区域
+11-14-2019 09:14:40 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100057404.html
+11-14-2019 09:14:41 root:INFO:小区名称
+11-14-2019 09:14:41 root:INFO:所在区域
+11-14-2019 09:14:41 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100204399.html
+11-14-2019 09:14:42 root:INFO:小区名称
+11-14-2019 09:14:42 root:INFO:所在区域
+11-14-2019 09:14:42 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101029848.html
+11-14-2019 09:14:43 root:INFO:小区名称
+11-14-2019 09:14:43 root:INFO:所在区域
+11-14-2019 09:14:43 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100768856.html
+11-14-2019 09:14:44 root:INFO:小区名称
+11-14-2019 09:14:44 root:INFO:所在区域
+11-14-2019 09:14:44 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101180079.html
+11-14-2019 09:14:45 root:INFO:小区名称
+11-14-2019 09:14:45 root:INFO:所在区域
+11-14-2019 09:14:46 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100787338.html
+11-14-2019 09:14:47 root:INFO:小区名称
+11-14-2019 09:14:47 root:INFO:所在区域
+11-14-2019 09:14:47 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101115581.html
+11-14-2019 09:14:48 root:INFO:小区名称
+11-14-2019 09:14:48 root:INFO:所在区域
+11-14-2019 09:14:48 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101155265.html
+11-14-2019 09:14:49 root:INFO:小区名称
+11-14-2019 09:14:49 root:INFO:所在区域
+11-14-2019 09:14:49 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101097485.html
+11-14-2019 09:14:50 root:INFO:小区名称
+11-14-2019 09:14:50 root:INFO:所在区域
+11-14-2019 09:14:50 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101253432.html
+11-14-2019 09:14:51 root:INFO:小区名称
+11-14-2019 09:14:51 root:INFO:所在区域
+11-14-2019 09:14:51 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100978114.html
+11-14-2019 09:14:52 root:INFO:小区名称
+11-14-2019 09:14:52 root:INFO:所在区域
+11-14-2019 09:14:52 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101486592.html
+11-14-2019 09:14:53 root:INFO:小区名称
+11-14-2019 09:14:53 root:INFO:所在区域
+11-14-2019 09:14:53 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101404044.html
+11-14-2019 09:14:54 root:INFO:小区名称
+11-14-2019 09:14:54 root:INFO:所在区域
+11-14-2019 09:14:54 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101017910.html
+11-14-2019 09:14:55 root:INFO:小区名称
+11-14-2019 09:14:55 root:INFO:所在区域
+11-14-2019 09:14:55 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001761883.html
+11-14-2019 09:14:56 root:INFO:小区名称
+11-14-2019 09:14:56 root:INFO:所在区域
+11-14-2019 09:14:56 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101425489.html
+11-14-2019 09:14:57 root:INFO:小区名称
+11-14-2019 09:14:57 root:INFO:所在区域
+11-14-2019 09:14:57 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101385887.html
+11-14-2019 09:14:58 root:INFO:小区名称
+11-14-2019 09:14:58 root:INFO:所在区域
+11-14-2019 09:14:58 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100500467.html
+11-14-2019 09:14:59 root:INFO:小区名称
+11-14-2019 09:14:59 root:INFO:所在区域
+11-15-2019 09:15:00 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101131998.html
+11-15-2019 09:15:01 root:INFO:小区名称
+11-15-2019 09:15:01 root:INFO:所在区域
+11-15-2019 09:15:01 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002273405.html
+11-15-2019 09:15:02 root:INFO:小区名称
+11-15-2019 09:15:02 root:INFO:所在区域
+11-15-2019 09:15:02 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107000089497.html
+11-15-2019 09:15:03 root:INFO:小区名称
+11-15-2019 09:15:03 root:INFO:所在区域
+11-15-2019 09:15:03 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107002023413.html
+11-15-2019 09:15:04 root:INFO:小区名称
+11-15-2019 09:15:04 root:INFO:所在区域
+11-15-2019 09:15:04 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001043409.html
+11-15-2019 09:15:05 root:INFO:小区名称
+11-15-2019 09:15:05 root:INFO:所在区域
+11-15-2019 09:15:05 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101299127.html
+11-15-2019 09:15:06 root:INFO:小区名称
+11-15-2019 09:15:06 root:INFO:所在区域
+11-15-2019 09:15:06 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101398348.html
+11-15-2019 09:15:07 root:INFO:小区名称
+11-15-2019 09:15:07 root:INFO:所在区域
+11-15-2019 09:15:07 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101270778.html
+11-15-2019 09:15:08 root:INFO:小区名称
+11-15-2019 09:15:08 root:INFO:所在区域
+11-15-2019 09:15:08 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101123769.html
+11-15-2019 09:15:09 root:INFO:小区名称
+11-15-2019 09:15:09 root:INFO:所在区域
+11-15-2019 09:15:09 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100343384.html
+11-15-2019 09:15:10 root:INFO:小区名称
+11-15-2019 09:15:10 root:INFO:所在区域
+11-15-2019 09:15:10 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101461229.html
+11-15-2019 09:15:11 root:INFO:小区名称
+11-15-2019 09:15:11 root:INFO:所在区域
+11-15-2019 09:15:11 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100839033.html
+11-15-2019 09:15:12 root:INFO:小区名称
+11-15-2019 09:15:12 root:INFO:所在区域
+11-15-2019 09:15:12 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101134366.html
+11-15-2019 09:15:13 root:INFO:小区名称
+11-15-2019 09:15:13 root:INFO:所在区域
+11-15-2019 09:15:13 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100500918.html
+11-15-2019 09:15:14 root:INFO:小区名称
+11-15-2019 09:15:14 root:INFO:所在区域
+11-15-2019 09:15:14 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100799937.html
+11-15-2019 09:15:15 root:INFO:小区名称
+11-15-2019 09:15:15 root:INFO:所在区域
+11-15-2019 09:15:15 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100720049.html
+11-15-2019 09:15:16 root:INFO:小区名称
+11-15-2019 09:15:16 root:INFO:所在区域
+11-15-2019 09:15:16 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101381315.html
+11-15-2019 09:15:17 root:INFO:小区名称
+11-15-2019 09:15:17 root:INFO:所在区域
+11-15-2019 09:15:17 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001466087.html
+11-15-2019 09:15:18 root:INFO:小区名称
+11-15-2019 09:15:18 root:INFO:所在区域
+11-15-2019 09:15:18 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100599961.html
+11-15-2019 09:15:19 root:INFO:小区名称
+11-15-2019 09:15:19 root:INFO:所在区域
+11-15-2019 09:15:19 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101348904.html
+11-15-2019 09:15:20 root:INFO:小区名称
+11-15-2019 09:15:20 root:INFO:所在区域
+11-15-2019 09:15:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101443339.html
+11-15-2019 09:15:21 root:INFO:小区名称
+11-15-2019 09:15:21 root:INFO:所在区域
+11-15-2019 09:15:21 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101333305.html
+11-15-2019 09:15:22 root:INFO:小区名称
+11-15-2019 09:15:22 root:INFO:所在区域
+11-15-2019 09:15:22 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107001495225.html
+11-15-2019 09:15:23 root:INFO:小区名称
+11-15-2019 09:15:23 root:INFO:所在区域
+11-15-2019 09:15:23 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100493277.html
+11-15-2019 09:15:24 root:INFO:小区名称
+11-15-2019 09:15:24 root:INFO:所在区域
+11-15-2019 09:15:24 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101477881.html
+11-15-2019 09:15:25 root:INFO:小区名称
+11-15-2019 09:15:25 root:INFO:所在区域
+11-15-2019 09:15:25 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101070950.html
+11-15-2019 09:15:26 root:INFO:小区名称
+11-15-2019 09:15:26 root:INFO:所在区域
+11-15-2019 09:15:26 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107101450189.html
+11-15-2019 09:15:27 root:INFO:小区名称
+11-15-2019 09:15:27 root:INFO:所在区域
+11-15-2019 09:15:27 root:INFO:start handling: https://sh.lianjia.com/ershoufang/107100585051.html

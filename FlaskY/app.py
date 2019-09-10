@@ -270,6 +270,15 @@ def edit(slug):
     return _create_or_edit(entry, 'edit.html')
 
 
+@app.route('/upload', methods=['POST', 'GET'])
+def upload():
+    if request.method == 'POST':
+        f = request.files['file']
+        upload_path = os.path.join(app.config.APP_DIR, 'static\images', f.filename)
+        f.save(upload_path)
+        flash('Upload successfully.')
+
+
 if __name__ == '__main__':
     # database.create_tables([Entry, FTSEntry, Admin], safe=True)
     app.run(debug=True)
