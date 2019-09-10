@@ -153,6 +153,7 @@ def testma():
     print(lma10, lma5, lma3)
     logger.info('testma finished')
 
+
 def listsum(lamount, i, n):
     m = min(len(lamount), i+n)
     result = 0
